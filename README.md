@@ -12,7 +12,8 @@ A full-stack e-commerce application built with MongoDB, Express.js, React, and N
 *   **Frontend:** React, JavaScript, CSS, Material UI
 *   **Backend:** Node.js, Express.js
 *   **Database:** MongoDB
-![HomePage Screenshot n°1](https://github.com/user-attachments/assets/9bdc871d-61d5-42c0-93c5-45a35599b0ff)
+
+![HomePage Screenshot n°1](https://github.com/user-attachments/assets/6f10ee02-19bd-45c6-9147-03030985c69a)
 
 ![HomePage Screenshot n°2](https://github.com/user-attachments/assets/df4ba685-732b-4672-a7d2-9e4c4dfa2e05)
 
